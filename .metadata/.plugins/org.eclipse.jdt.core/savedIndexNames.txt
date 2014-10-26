@@ -1,0 +1,9 @@
+INDEX VERSION 1.126+C:\Users\Tomek\OneDrive\Android_workspace\.metadata\.plugins\org.eclipse.jdt.core
+1649876980.index
+2838733665.index
+2981432312.index
+1223804092.index
+3183658873.index
+3628773486.index
+3921361467.index
+1284074322.index
